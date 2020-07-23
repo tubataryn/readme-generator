@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a command line app that generates a readme based on a projects package.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "readme-generator": "./bin/readme-generator"
+  },
+  "author": {
+    "name": "Taryn Fanning",
+    "email": "taryn.fanning@gmail.com",
+    "url": "https://github.com/tubataryn"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/tubataryn/readme-generator",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
