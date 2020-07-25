@@ -1,6 +1,6 @@
 // array of questions for user
 const questions = [
-
+"What is your page's title?", "What is it about?", ""
 ];
 
 // function to write README file
